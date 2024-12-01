@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
     "outDir": "./bin",
-    "target": "es2015",
+    "target": "esnext",
     
     "declaration": true,
-    "module": "node16",
+    "module": "esnext",
     "moduleDetection": "force",
-    "moduleResolution": "node16",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,

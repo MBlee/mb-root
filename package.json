@@ -1,7 +1,7 @@
 {
-  "name": "@coswars/mb-root",
+  "name": "@coswars/mb-",
   "version": "1.0.0",
-  "description": "命令行",
+  "description": "命令行：",
   "main": "./bin/index.js",
   "type": "module",
   "scripts": {
